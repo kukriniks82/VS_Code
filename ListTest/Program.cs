@@ -1,3 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-Console.WriteLine("Hello, World!");
+internal class List
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
