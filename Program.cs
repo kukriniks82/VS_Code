@@ -5,9 +5,7 @@ namespace VS_Code;
 class Program
 {
     static void Main(string[] args)
-    {
-    
-        
+    {     
         int[] arr = new int[100_000];
         Random rnd = new Random();
         for (int i = 0; i < arr.Length; i++)
